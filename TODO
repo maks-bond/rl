@@ -1,6 +1,2 @@
-1. Pickle
-2. Debug it and understand why there is no convergence.
-3. Train for longer.
-4. Understand whether I should be giving artificial rewards.
-5. Learn RL more, understand the algorithm in details. Maybe read a paper or something else explainnig it.
-6. Understand why don't we get closer to the goal.
+1. Clean up the code more, Extract q learning into a class.
+2. Learn RL more (course), understand the algorithm in details. Maybe read a paper or something else explainnig it.
