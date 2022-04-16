@@ -73,10 +73,9 @@ class QLearning:
         print("Training finished.\n")
         q_table.write()
 
-    def execute(self):
+    def execute(self, episodes):
         q_table = QTable(self.env.action_space.n)
         q_table.read()
-        episodes = 10
 
         for _ in range(episodes):
             state = self.env.reset()
