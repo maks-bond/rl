@@ -1,2 +1,2 @@
-1. Clean up the code more, Extract q learning into a class.
-2. Learn RL more (course), understand the algorithm in details. Maybe read a paper or something else explainnig it.
+1. Understand how to write and read PyTorch module.
+2. Debug the training phase. Is the model really learning? Understand how to do back propagation properly.
